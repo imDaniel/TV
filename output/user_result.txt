@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-29 18:19:01,url
+2024-12-30 06:15:01,url
 🇨🇳 4K & 8K频道,#genre#
 华数4k,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 华数4k,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
@@ -68,6 +68,7 @@ CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$订阅源-IPv6
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$订阅源
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$订阅源-3840x2160
 
 🇨🇳 港.澳.财经.美食,#genre#
 CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0848&tk=2aca1ad9a849$订阅源
@@ -102,6 +103,7 @@ CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc7
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?$订阅源-IPv6
 东方财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2276&tk=7d4ad8f156e3$订阅源
 东方财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4946&tk=97475bb89d45$订阅源
+东方财经,http://nas.hssvm.com:8888/udp/225.1.1.87:5002$订阅源
 东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$订阅源-IPv6
 东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8$订阅源-IPv6
 东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IAS$订阅源-IPv6
