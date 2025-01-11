@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-11 06:15:47,url
+2025-01-11 18:18:07,url
 🇨🇳 4K & 8K频道,#genre#
 华数4k,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 华数4k,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
@@ -15,7 +15,6 @@ CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.li
 爱上4K,http://wouu.net:9977/udp/239.93.0.97:5140$订阅源
 爱上4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 爱上4K,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
-纪实人文,http://223.166.234.9:7777/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$订阅源-IPv6
 纪实人文,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8$订阅源-IPv6
 纪实人文,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
@@ -65,8 +64,6 @@ CHC影迷电影,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8$订阅源
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$订阅源-IPv6
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$订阅源
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$订阅源-3840x2160
 
 🇨🇳 港.澳.财经.美食,#genre#
 CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$订阅源
@@ -92,24 +89,20 @@ CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 欢笑剧场,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$订阅源-IPv6
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF14%E3%80%8F$订阅源
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-五星体育,http://223.166.234.9:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007$订阅源-IPv6
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?$订阅源-IPv6
 东方财经,http://wouu.net:9977/udp/239.93.1.165:5140$订阅源
 东方财经,http://nas.hssvm.com:8888/udp/225.1.1.87:5002$订阅源
-东方财经,http://223.166.234.9:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF12%E3%80%8F$订阅源
 东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$订阅源-IPv6
 东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8$订阅源-IPv6
 东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IAS$订阅源-IPv6
-第一财经,http://223.166.234.9:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF10%E3%80%8F$订阅源
-第一财经,http://223.166.234.9:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 第一财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8$订阅源-IPv6
 第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 第一财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IAShttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://m.951688.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
-求索动物,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=287$订阅源
 求索动物,http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
+求索动物,http://b.zgjok.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IAS$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=$订阅源-IPv6
@@ -120,14 +113,12 @@ CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IAS$订阅源-IPv6
 求索生活,http://m.951688.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
-求索生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=288$订阅源
 求索生活,http://tv.kmhlzxs.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
+求索生活,http://b.zgjok.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IAS$订阅源-IPv6
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=$订阅源-IPv6
 东方影视,http://z.b.bkpcp.top/m.php?id=shys$订阅源
-东方影视,http://223.166.234.9:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-东方影视,http://223.166.234.9:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F$订阅源
 东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3$订阅源-IPv6
 东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
@@ -572,7 +563,6 @@ CCTV11,http://123.113.187.204:8000/rtp/239.3.1.152:8120$组播源
 三沙卫视,http://114.252.238.87:8000/udp/239.3.1.155:4120$订阅源
 三沙卫视,http://111.196.129.152:20000/udp/239.3.1.155:4120$订阅源
 三沙卫视,http://221.219.79.161:4000/udp/239.3.1.155:4120$订阅源
-纪实人文,http://223.166.234.9:7777/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$订阅源-IPv6
 纪实人文,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8$订阅源-IPv6
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$订阅源-IPv6
@@ -592,7 +582,7 @@ CCTV11,http://123.113.187.204:8000/rtp/239.3.1.152:8120$组播源
 新疆卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 新疆卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 新疆卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8$订阅源
+新疆卫视,http://wouu.net:9977/udp/239.93.0.194:5140$订阅源
 云南卫视,http://220.249.114.102:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 云南卫视,http://221.219.79.161:4000/rtp/239.3.1.26:8108$组播源
 云南卫视,http://111.196.129.152:20000/rtp/239.3.1.26:8108$组播源
@@ -616,7 +606,6 @@ CCTV11,http://123.113.187.204:8000/rtp/239.3.1.152:8120$组播源
 兵团卫视,http://114.252.238.87:8000/udp/239.3.1.48:8160$订阅源
 兵团卫视,http://111.196.129.152:20000/udp/239.3.1.48:8160$订阅源
 康巴卫视,http://wouu.net:9977/udp/239.93.0.41:5140$订阅源
-康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8$订阅源
 康巴卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$订阅源-IPv6
 康巴卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000066/index.m3u8$订阅源-IPv6
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8$订阅源-IPv6
@@ -660,13 +649,12 @@ CCTV11,http://123.113.187.204:8000/rtp/239.3.1.152:8120$组播源
 西藏卫视,http://111.196.129.152:20000/udp/239.3.1.47:8164$订阅源
 西藏卫视,http://221.219.79.161:4000/udp/239.3.1.47:8164$订阅源
 延边卫视,http://61.138.128.226:19901/tsfile/live/1008_1.m3u8$订阅源
-延边卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=117$订阅源
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8$订阅源
+延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8$订阅源
+延边卫视,http://live.nctv.top/6688/bfgd.php?id=117$订阅源
 延边卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000073/index.m3u8$订阅源-IPv6
 延边卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 延边卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226516/2.m3u8$订阅源-IPv6
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8$订阅源
-大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8$订阅源
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8$订阅源
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8$订阅源-IPv6
 大湾区卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3$订阅源-IPv6
@@ -699,8 +687,8 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017$订阅源
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源
 求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=$订阅源-IPv6
 求索动物,http://m.951688.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
-求索动物,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=287$订阅源
 求索动物,http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
+求索动物,http://b.zgjok.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
@@ -711,8 +699,8 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索生活,http://m.951688.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
-求索生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=288$订阅源
 求索生活,http://tv.kmhlzxs.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
+求索生活,http://b.zgjok.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IAS$订阅源-IPv6
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
@@ -725,6 +713,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8$订阅源
 古装剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$订阅源-IPv6
 动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8$订阅源-IPv6
+斗鱼电影3,http://epg.112114.xyz/douyu/122402$订阅源
 
 黑龙江移动v4v6,#genre#
 CCTV1,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -1223,7 +1212,7 @@ CCTV17,http://111.196.129.152:20000/udp/239.3.1.151:8144$订阅源
 新疆卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 新疆卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225852/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 新疆卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8$订阅源
+新疆卫视,http://wouu.net:9977/udp/239.93.0.194:5140$订阅源
 西藏卫视,http://220.249.114.102:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 西藏卫视,http://221.219.79.161:4000/rtp/239.3.1.47:8164$组播源
 西藏卫视,http://114.252.238.87:8000/rtp/239.3.1.47:8164$组播源
@@ -1244,8 +1233,8 @@ CCTV17,http://111.196.129.152:20000/udp/239.3.1.151:8144$订阅源
 兵团卫视,http://114.252.238.87:8000/udp/239.3.1.48:8160$订阅源
 兵团卫视,http://111.196.129.152:20000/udp/239.3.1.48:8160$订阅源
 延边卫视,http://61.138.128.226:19901/tsfile/live/1008_1.m3u8$订阅源
-延边卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=117$订阅源
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8$订阅源
+延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8$订阅源
+延边卫视,http://live.nctv.top/6688/bfgd.php?id=117$订阅源
 延边卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000073/index.m3u8$订阅源-IPv6
 延边卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 延边卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8$订阅源-IPv6
@@ -1262,12 +1251,10 @@ CCTV17,http://111.196.129.152:20000/udp/239.3.1.151:8144$订阅源
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8$订阅源
 康巴卫视,http://wouu.net:9977/udp/239.93.0.41:5140$订阅源
-康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8$订阅源
 康巴卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$订阅源-IPv6
 康巴卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000066/index.m3u8$订阅源-IPv6
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8$订阅源-IPv6
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8$订阅源
-大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8$订阅源
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8$订阅源
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8$订阅源-IPv6
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8$订阅源-IPv6
@@ -1325,14 +1312,14 @@ CCTV17,http://111.196.129.152:20000/udp/239.3.1.151:8144$订阅源
 求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索生活,http://m.951688.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
-求索生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=288$订阅源
 求索生活,http://tv.kmhlzxs.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
+求索生活,http://b.zgjok.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IAS$订阅源-IPv6
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://m.951688.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
-求索动物,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=287$订阅源
 求索动物,http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
+求索动物,http://b.zgjok.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
@@ -1870,7 +1857,6 @@ CCTV17,http://111.196.129.152:20000/udp/239.3.1.151:8144$订阅源
 中国功夫,http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8$订阅源-IPv6
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$订阅源-IPv6
 中国功夫,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000101/index.m3u8?$订阅源-IPv6
-纪实人文,http://223.166.234.9:7777/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$订阅源-IPv6
 纪实人文,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8$订阅源-IPv6
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$订阅源-IPv6
@@ -2977,8 +2963,8 @@ iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/60000000060002806
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3$订阅源-IPv6
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://m.951688.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
-求索动物,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=287$订阅源
 求索动物,http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
+求索动物,http://b.zgjok.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
@@ -2990,8 +2976,8 @@ iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索生活,http://m.951688.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
-求索生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=288$订阅源
 求索生活,http://tv.kmhlzxs.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
+求索生活,http://b.zgjok.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IAS$订阅源-IPv6
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6
